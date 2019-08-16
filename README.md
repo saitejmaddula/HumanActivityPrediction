@@ -6,6 +6,7 @@ Use of smart phones has been very common these days irrespective to age or any o
 Uses of Application:
 
 1.It helps the user to know his usage across applications
+
 2.Highly beneficial to commercial companies in generating the deals in an  customized manner or to attract to their application at some inactive time
 
 The application is based on a real time data set
